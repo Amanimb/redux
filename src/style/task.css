@@ -1,0 +1,22 @@
+
+.task-item{
+    gap: 3px;
+    box-shadow: 0px 0px 47px -6px rgba(128,87,87,0.73);
+justify-content: center;
+display: flex;
+margin-top: 50px;
+width: 860px;
+margin: 0 auto;
+align-items: center;
+}
+.Done{
+    background-color: rgb(126, 218, 126);
+}
+.undone{
+    background-color: rgb(218, 126, 126);
+}
+.edit{
+    background-color: gray;
+    width: 500px;
+    
+}
